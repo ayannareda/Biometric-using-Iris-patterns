@@ -6,3 +6,9 @@ Procedure :-
 2. Enroll the iris using Enrolling.ipynb
 3. Compare codes using Recognition.ipynb
 
+Methedology :-
+
+For sample pupose, used "UTIRIS V.1" dataset.
+You can download it form (https://utiris.wordpress.com/)
+Below is the sample.
+![alt text](https://raw.githubusercontent.com/mahavird/my_deep_anpr/master/output/out_4_1.jpg)
