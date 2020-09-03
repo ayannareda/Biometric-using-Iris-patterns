@@ -1,4 +1,4 @@
-# Biometric-using-Iris-patterns
+# Biometric-using-Iris-Recognition
 Iris recognition is an automated method of biometric identification that uses mathematical pattern-recognition techniques on video images of one or both of the irises of an individual's eyes, whose complex patterns are unique, stable, and can be seen from some distance.
 
 Procedure :-
