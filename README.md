@@ -8,7 +8,7 @@ Procedure :-
 
 Methedology :-
 
-For sample pupose, used "UTIRIS V.1" dataset.
+For sample pupose, used "UTIRIS V.1" dataset
 You can download it form (https://utiris.wordpress.com/)
-Below is the sample.
-![alt text](https://raw.githubusercontent.com/mahavird/my_deep_anpr/master/output/out_4_1.jpg)
+Below is the sample
+![alt text](https://github.com/gearhead0909/Biometric-using-Iris-patterns/blob/master/Results/image.jpg)
