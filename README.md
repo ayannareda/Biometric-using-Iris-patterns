@@ -8,7 +8,7 @@ Procedure :-
 
 Methedology :-
 
-For sample pupose, used "UTIRIS V.1" dataset \n
+For sample pupose, used "UTIRIS V.1" dataset <br />
 You can download it form (https://utiris.wordpress.com/)
 Below is the sample
 <img src="https://github.com/gearhead0909/Biometric-using-Iris-patterns/blob/master/Results/image.jpg" alt="alt text" width="700" height="500">
